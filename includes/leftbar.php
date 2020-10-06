@@ -9,8 +9,8 @@ session_start();?>
         <a href="stock-summary.php" class="list-group-item list-group-item-action bg-dark text-light">Stock summary</a>
         <a href="debit-note.php" class="list-group-item list-group-item-action bg-dark text-light">Debit note</a>
         <a href="credit-note.php" class="list-group-item list-group-item-action bg-dark text-light">Credit note</a>
-        <a href="..\party-list.php" class="list-group-item list-group-item-action bg-dark text-light">Party List</a>
-        <a href="..\productlist.php" class="list-group-item list-group-item-action bg-dark text-light">Product List</a>
+        <a href="party-list.php" class="list-group-item list-group-item-action bg-dark text-light">Party List</a>
+        <a href="productlist.php" class="list-group-item list-group-item-action bg-dark text-light">Product List</a>
         <a href="ledger.php" class="list-group-item list-group-item-action bg-dark text-light">Ledger</a>
         
       </div>
